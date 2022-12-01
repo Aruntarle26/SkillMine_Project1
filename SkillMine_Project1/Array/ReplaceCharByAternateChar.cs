@@ -27,7 +27,7 @@ namespace SkillMine_Project1.Array
         static void Main(string[] args)
         {
             char[] arr = new char[6];
-            Console.WriteLine("Enter the Integer Element of array");
+            Console.WriteLine("Enter the Character Element of array");
             for (int i = 0; i < arr.Length; i++)
             {
                arr[i] = Convert.ToChar(Console.ReadLine());

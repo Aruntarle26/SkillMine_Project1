@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>SkillMine_Project1.Array.ReplaceCharByAternateChar</StartupObject>
+	  <StartupObject>SkillMine_Project1.Array.ReplaceNegativeWthSquareOfPrevious</StartupObject>
   </PropertyGroup>
 
 </Project>
